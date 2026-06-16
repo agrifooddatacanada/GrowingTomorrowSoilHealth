@@ -18,7 +18,8 @@ Agriculture and Agri-Food Canada
 
 ## Publisher
 Agriculture and Agri-Food Canada
-[Homepage for dataset]: (https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01)
+
+[Homepage for dataset](https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01)
 
 ## Type
 schema
