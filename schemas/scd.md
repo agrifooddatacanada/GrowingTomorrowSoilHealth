@@ -22,7 +22,7 @@ Agriculture and Agri-Food Canada
 schema
 
 ### Access dataset
-[Homepage for dataset](https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01)
+[Open link to access dataset on Open Canada website](https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01){:target="_blank"}
 
 ### Metadata
 - **Type:** Catalogue Record
