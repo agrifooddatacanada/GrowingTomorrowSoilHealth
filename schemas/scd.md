@@ -7,12 +7,21 @@ nav_order: 2
 # Soil Cover Days
 # Catalogue Record
 
-## Context
-- dcat: http://www.w3.org/ns/dcat#
-- dcterms: http://purl.org/dc/terms/
-- foaf: http://xmlns.com/foaf/0.1/
-- prov: http://www.w3.org/ns/prov#
-- adms: http://www.w3.org/ns/adms#
+## Title
+Agri-Environmental Indicator – Soil Cover Day
+
+## Description
+The Agri-Environmental Indicator Soil Cover Days dataset provides a calculation of the amount of time each year that the soil of Canada agricultural lands is covered by a crop, crop residues on its surface, or snow.
+
+## Creator
+Agriculture and Agri-Food Canada
+
+## Publisher
+Agriculture and Agri-Food Canada
+[Homepage for dataset]: (https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01)
+
+## Type
+schema
 
 ## Metadata
 - **Type:** Catalogue Record
@@ -23,19 +32,3 @@ nav_order: 2
 - **Access Rights:** Open Access
 - **License:** CC0
 - **Language:** eng
-
-## Title
-Agri-Environmental Indicator – Soil Cover Day
-
-## Description
-The Agri-Environmental Indicator Soil Cover Days dataset provides a calculation of the amount of time each year that the soil of Canada agricultural lands is covered by a crop, crop residues on its surface, or snow.
-
-## Creator
-- Agriculture and Agri-Food Canada (foaf-Organization)
-
-## Publisher
-- Agriculture and Agri-Food Canada (foaf-Organization)
-- Homepage: https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01
-
-## Type
-schema
