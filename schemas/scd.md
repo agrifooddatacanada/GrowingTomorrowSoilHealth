@@ -4,8 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# Soil Cover Days
-# Catalogue Record
+## Catalogue Record for Soil Cover Days
 
 ## Title
 Agri-Environmental Indicator – Soil Cover Day
