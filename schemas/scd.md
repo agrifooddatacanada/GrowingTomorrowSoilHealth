@@ -19,7 +19,7 @@ Agriculture and Agri-Food Canada
 Agriculture and Agri-Food Canada
 
 ### Type
-[schema](schemas/SCD/Agri-Environmentl_OCA_schema.md)
+[schema](../SCD/Agri-Environmentl_OCA_schema.md)
 
 ### Access dataset
 [Open link to access dataset on Open Canada website](https://open.canada.ca/data/en/dataset/e3d06348-c729-4da1-96a1-4b2ab19a9e01){:target="_blank"}
