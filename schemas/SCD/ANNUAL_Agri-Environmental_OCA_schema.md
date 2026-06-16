@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Agri-Environmental Indicator – Soil Cover Days - Annual
-nav_order: 3
+parent: Soil Cover Days
 ---
 
 # Schema information
