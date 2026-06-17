@@ -29,7 +29,7 @@ schema
 - **Schema ID:** EFYsOXECYgGO2kfWRs830lNBs9c87VJ16gLuIPJ35kUO
 - **ID:** EJqoSM5qETMgjQvOVyUt9Z8K96IABDgj6HMg3xU4Q0VO
 
-### Access and Rights
-- **Access Rights:** Open Access
-- **License:** CC0
-- **Language:** eng
+### Access and Licensing
+- **Access Rights**: Open Access  
+- **License**: Open Government Licence - Canada  
+
