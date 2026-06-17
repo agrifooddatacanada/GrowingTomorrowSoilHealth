@@ -30,7 +30,6 @@ schema
 - **Schema ID:** EFYsOXECYgGO2kfWRs830lNBs9c87VJ16gLuIPJ35kUO
 - **ID:** EE1rBzNRwBrGSEHXqwAHrYiGF7tt1mJ9q9PROaAOHTUz
 
-### Access and Rights
-- **Access Rights:** Open Access
-- **License:** CC0
-- **Language:** eng
+### Access and Licensing
+- **Access Rights**: Open Access  
+- **License**: Open Government Licence - Canada  
