@@ -19,7 +19,7 @@ Agriculture and Agri-Food Canada
 Agriculture and Agri-Food Canada
 
 ### Type
-[schema](schemas/SCD/Agri-Environmental_OCA_schema.md)
+schema
 
 
 ### Access dataset
