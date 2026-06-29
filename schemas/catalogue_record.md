@@ -1,5 +1,5 @@
 ---
-title: Agri-Environmental Indicator –Soil Erosion Risk Data Series 
+title: Soil Erosion Risk Data Series 
 layout: default
 nav_order: 3
 ---
