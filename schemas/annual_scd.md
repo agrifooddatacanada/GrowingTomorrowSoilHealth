@@ -24,11 +24,6 @@ Agriculture and Agri-Food Canada
 ### Type
 schema
 
-### Metadata
-- **Type:** Catalogue Record
-- **Schema ID:** EFYsOXECYgGO2kfWRs830lNBs9c87VJ16gLuIPJ35kUO
-- **ID:** EJqoSM5qETMgjQvOVyUt9Z8K96IABDgj6HMg3xU4Q0VO
-
 ### Access and Licensing
 - **Access Rights**: Open Access  
 - **License**: Open Government Licence - Canada  
