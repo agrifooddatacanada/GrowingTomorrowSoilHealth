@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Risk of Tillage Erosion on Cultivated Land 
-parent: Agri-Environmental Indicator –Soil Erosion Risk Data Series  
+parent: Soil Erosion Risk Data Series  
 ---
   
 
