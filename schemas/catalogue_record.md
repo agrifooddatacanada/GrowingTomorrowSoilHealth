@@ -1,7 +1,7 @@
 ---
 title: Soil Erosion Risk Data Series 
 layout: default
-nav_order: 3
+parent: Agri-Environmental Indicators
 ---
 
 **Schema ID:** EE4QpFQwDzOP1xjn9iffzZm5Wx1RlybSeU7RKIFsGkTs  
