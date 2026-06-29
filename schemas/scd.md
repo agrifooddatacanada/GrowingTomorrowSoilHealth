@@ -1,7 +1,7 @@
 ---
 title: Soil Cover Days
 layout: default
-nav_order: 2
+parent: Agri-Environmental Indicators
 ---
 
 ## Catalogue Record for Soil Cover Days
