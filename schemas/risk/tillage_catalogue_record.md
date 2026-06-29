@@ -1,4 +1,9 @@
-# Risk of Tillage Erosion on Cultivated Land  
+---
+layout: default  
+title: Risk of Tillage Erosion on Cultivated Land 
+parent: Agri-Environmental Indicator –Soil Erosion Risk Data Series  
+---
+  
 
 **Schema ID:** EKXaGk0pzYY8hMX0uAzyU3gOTPw1saFN-IPzgHWw7I1I  
 **Record ID:** EM1ViAf43amnrGZf_7qg1eddMnmjd44QL1zuOs3T-rot
