@@ -1,4 +1,8 @@
-# Agri-Environmental Indicator –Soil Erosion Risk Data Series 
+---
+title: Agri-Environmental Indicator –Soil Erosion Risk Data Series 
+layout: default
+nav_order: 3
+---
 
 **Schema ID:** EE4QpFQwDzOP1xjn9iffzZm5Wx1RlybSeU7RKIFsGkTs  
 **Record ID:** EEr-G-ZA-hdS6GqGZ2QsOY7SJPuK4IKqYZF-9YbSLndr
