@@ -1,17 +1,11 @@
 ---
 layout: default  
-title: Risk of Water Erosion on Cultivated Land  
-parentL Risk of Water Erosion on Cultivated Land - Catalogue
+title: Risk of Water Erosion on Cultivated Land - Data Schema
+parent: Risk of Water Erosion on Cultivated Land - Catalogue
 ---
-
 # Schema information
 {: .no_toc }
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 **Name**: Risk of Water Erosion on Cultivated Land   
 **Description**: The Agri-Environmental Indicator Risk of Water Erosion on Cultivated Land dataset provides the estimated risk of soil loss from water for Soil Landscapes of Canada agricultural areas for census years since 1981.  
