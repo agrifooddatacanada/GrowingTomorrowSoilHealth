@@ -8,10 +8,10 @@ nav_order: 2
 
 ### Soil Cover 
 
-- [Soil Cover Days](schemas/SCD_Catalogue.md)
+- [Soil Cover Days](schemas/SCD_Catalogue.html)
 
 ### Risk of Soil Erosion
 
-- [Tillage Erosion](schemas/tillage_catalogue_record.md)
-- [Water Erosion](schemas/water_catalogue_record.md)
-- [Wind Erosion](schemas/wind_catalogue_record.md)
+- [Tillage Erosion](schemas/tillage_catalogue_record.html)
+- [Water Erosion](schemas/water_catalogue_record.html)
+- [Wind Erosion](schemas/wind_catalogue_record.html)
