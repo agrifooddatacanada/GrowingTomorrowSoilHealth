@@ -4,6 +4,14 @@ layout: default
 nav_order: 2
 ---
 
-## Soil Cover 
+## The following categories of Soil Health data sources have been added
 
-## Risk of Soil Erosion
+### Soil Cover 
+
+Soil Cover Days
+
+### Risk of Soil Erosion
+
+Tillage Erosion
+Water Erosion
+Wind Erosion
