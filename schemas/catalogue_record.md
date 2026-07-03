@@ -28,7 +28,7 @@ Agriculture and Agri-Food Canada, Science and Technology Branch
 [Open link to access dataset on Open Canada website](https://open.canada.ca/data/en/dataset/b52b3c91-e0eb-47d1-aea5-fa5428254512) {:target="_blank"}
 
 ### Type
-schema
+catalogue
 
 ### Access and Licensing
 - **Access Rights**: Open Access  
