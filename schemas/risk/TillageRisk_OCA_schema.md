@@ -7,7 +7,7 @@ parent: Risk of Tillage Erosion on Cultivated Land - Catalogue
 {: .no_toc }
 
 
-**Name**: Risk of Tillage Erosion on Cultivated Land    
+**Name**: Risk of Tillage Erosion on Cultivated Land - Data Schema 
 **Description**: The Agri-Environmental Indicator Risk of Tillage Erosion on Cultivated Land dataset provides the estimated risk of soil loss from tillage for Soil Landscapes of Canada agricultural areas for census years since 1981.
 The dataset provides the risk of soil erosion for agricultural lands from tillage, which is useful for creating maps and analysis. For example, it is used to identify areas where crop production could benefit from soil conservation practices and where water quality is at risk.    
 **Classification**: RDF105  
