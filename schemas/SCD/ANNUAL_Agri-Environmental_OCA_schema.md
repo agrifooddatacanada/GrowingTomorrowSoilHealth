@@ -7,11 +7,7 @@ parent: Annual Soil Cover Days
 # Schema information
 {: .no_toc }
 
-## Table of Contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 **Name**: Agri-Environmental Indicator – Soil Cover Days - Annual  
 **Description**: The Agri\-Environmental Indicator Soil Cover Days dataset provides a calculation of the number of days in a year that the soil of Canada agricultural lands is covered by a crop, crop residues on its surface, or snow. The dataset provide long term soil cover at the annual basis and at the Soil Landscape of Canada scale.  
