@@ -33,8 +33,6 @@ schema
 ### Access and Licensing
 - **Access Rights**: Open Access  
 - **License**: Open Government Licence - Canada  
-**Schema ID:** EE4QpFQwDzOP1xjn9iffzZm5Wx1RlybSeU7RKIFsGkTs  
-**Record ID:** EEr-G-ZA-hdS6GqGZ2QsOY7SJPuK4IKqYZF-9YbSLndr
 
 **Organisation:** Agriculture and Agri-Food Canada, Science and Technology Branch  
 **Role:** Lead Research Organisation
