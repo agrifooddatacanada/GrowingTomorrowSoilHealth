@@ -14,5 +14,4 @@ This website provides a collection of data schemas and accompanying catalogue en
 
 To view the available files, use the Table of Contents on the left side of the page. To search across the site, use the search bar located at the top of the page.
 
-For any questions regarding this site, please contact [Michelle Edwards](mailto:edwardsm@uoguelph.ca)   
-
+For any questions regarding this site, please contact[Michelle Edwards
