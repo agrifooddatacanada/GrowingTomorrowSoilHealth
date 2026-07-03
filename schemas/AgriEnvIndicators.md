@@ -8,7 +8,7 @@ nav_order: 2
 
 ### Soil Cover 
 
-- [Soil Cover Days](schemas/SCD_Catalogue.html)
+- [Soil Cover Days](SCD_Catalogue.html)
 
 - [Soil Cover Days](schemas/SCD_Catalogue.md)
 
