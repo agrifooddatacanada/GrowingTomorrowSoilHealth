@@ -1,7 +1,7 @@
 ---
 title: Soil Cover Days
 layout: default
-parent: Agri-Environmental Indicators
+parent: Soil Cover Days Data Series
 ---
 
 ## Catalogue Record for Soil Cover Days
