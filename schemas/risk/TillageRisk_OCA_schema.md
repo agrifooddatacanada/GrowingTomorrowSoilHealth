@@ -1,17 +1,10 @@
 ---
 layout: default  
-title: Risk of Tillage Erosion on Cultivated Land   
+title: Risk of Tillage Erosion on Cultivated Land - Data Schema   
 parent: Risk of Tillage Erosion on Cultivated Land - Catalogue
 ---
 
-# Schema information
-{: .no_toc }
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 **Name**: Risk of Tillage Erosion on Cultivated Land    
 **Description**: The Agri-Environmental Indicator Risk of Tillage Erosion on Cultivated Land dataset provides the estimated risk of soil loss from tillage for Soil Landscapes of Canada agricultural areas for census years since 1981.
@@ -501,6 +494,15 @@ The dataset provides the risk of soil erosion for agricultural lands from tillag
 | ERI_81_21_CHG_CLASS | Soil Erosion by Tillage Change 1981 - 2021 Classification | A classification that describes the difference identified by the CLASS in 2021 minus the CLASS in 1981. | Large Decrease (VAL ≤ -6), Small Decrease (-6 < VAL ≤ -1, Little or No Change (-1 < VAL ≤ 1), Increase (1 ≤ VAL < 6), Large Increase (VAL ≥ 6), Not Assessed (Area not evaluated) |
 | ERI_81_21_CHG_CLASS_EN | Soil Erosion by Tillage Change 1981 - 2021 Classification - English | Textual Description of the Class in English | Large Decrease (VAL ≤ -6), Small Decrease (-6 < VAL ≤ -1, Little or No Change (-1 < VAL ≤ 1), Increase (1 ≤ VAL < 6), Large Increase (VAL ≥ 6), Not Assessed (Area not evaluated) |
 | ERI_81_21_CHG_CLASS_FR | Soil Erosion by Tillage Change 1981 - 2021 Classification - French | Textual Description of the Class in French | Grande diminution (VAL ≤ -6), Diminution (-6 < VAL ≤ -1), Peu ou pas de changement (-1 < VAL ≤ 1), Augmentation (1 ≤ VAL < 6), Grande augmentation (VAL ≥ 6), Élément non évalué (Area not evaluated) |
+
+# Schema information
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Schema SAIDs
 
