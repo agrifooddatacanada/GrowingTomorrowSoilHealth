@@ -1,3 +1,9 @@
+---
+layout: default  
+title: Risk of Wind Erosion on Cultivated Land - Catalogue 
+parent: Soil Erosion Risk Data Series  
+---
+
 # Risk of Wind Erosion on Cultivated Land 
 
 **Schema ID:** EKXaGk0pzYY8hMX0uAzyU3gOTPw1saFN-IPzgHWw7I1I  
