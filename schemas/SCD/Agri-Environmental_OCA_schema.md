@@ -7,11 +7,7 @@ parent: Soil Cover Days
 # Schema information
 {: .no_toc }
 
-## Table of Contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 **Name**: Agri-Environmental Indicator – Soil Cover Days  
 **Description**: The Agri\-Environmental Indicator Soil Cover Days dataset provides a calculation of the amount of time each year that the soil of Canada agricultural lands is covered by a crop, crop residues on its surface, or snow. Pre\-packaged CSV file \- AEI_MGMNT_SCD  
