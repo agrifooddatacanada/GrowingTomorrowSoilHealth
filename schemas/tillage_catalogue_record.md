@@ -33,6 +33,6 @@ Schema
 - **Record ID:** EM1ViAf43amnrGZf_7qg1eddMnmjd44QL1zuOs3T-rot
 
 ### Access and Licensing:
-- **Access RIghts**: Open Access  
+- **Access Rights**: Open Access  
 - **License:** Open Government Licence - Canada
 
