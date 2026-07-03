@@ -12,8 +12,6 @@ parent: Risk of Wind Erosion on Cultivated Land - Catalogue
 **Description**: The Agri-Environmental Indicator Risk of Wind Erosion on Cultivated Land dataset provides the estimated risk of soil loss from wind for Soil Landscapes of Canada agricultural areas for census years since 1981.
 The dataset provides the risk of soil erosion for agricultural lands from tillage, which is useful for creating maps and analysis. For example, it is used to identify areas where crop production could benefit from soil conservation practices and where water quality is at risk.    
 **Classification**: RDF105  
-**Author**: Michelle Edwards  
-**Author Email**: edwardsm@uoguelph.ca  
 **Schema package SAID**: EG24qRyE1uvpr-2EwMVThjhwAm_7AO1fFUj4S1q4oNTE  
 
 ## Schema quick view
